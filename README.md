@@ -137,6 +137,3 @@ This project demonstrates how Java can be used to build a simple yet effective r
 
 
 
----
-
-💡 *This project was created as part of an academic submission and showcases practical implementation of programming concepts.*
